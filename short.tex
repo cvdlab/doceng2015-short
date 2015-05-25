@@ -197,8 +197,8 @@ nowadays focused to realize an integration of positioning systems like GNSS
 (Global Navigation Satellite system), Wi-Fi, Bluetooth and LTE (Long Term
 Evolution), to support continuos outdoor/indoor navigation by means of
 integration of technologies, it represents the most natural interface to
-perform realtime access monitoring and multi-person tracking.Web based
-tecnologies supporting self and context aweare objects in conjunction  with
+perform real-time access monitoring and multi-person tracking. Web based
+tecnologies supporting self and context aware objects in conjunction  with
 location systems represent the enabling piece for the scenario depicted in
 figure~\ref{fig:web-of-thing} we are relentlssly moving torward: the Web of
 Things.
@@ -320,8 +320,7 @@ of topology and geometry, to be expanded for visualization or interaction at
 any useful level of detail (see figure~\ref{fig:sogei}). The LAR
 scheme~\cite{Dicarlo:2014:TNL:2543138.2543294} is characterised by a very
 large domain, including architecture, building and
-construction~\cite{paoluzziMS:2014}, 2D and 3D engineering meshes, non-
-manifold geometric and solid models and meshes, and high-resolution 3D
+construction~\cite{paoluzziMS:2014}, 2D and 3D engineering meshes, non-manifold geometric and solid models and meshes, and high-resolution 3D
 images~\cite{cadanda:2015}.  The expansion of a LAR model, to be considered as
 a general-purpose graphic primitive, may be executed on either the server or
 the supervisor client of the HIJSON Web Toolkit architecture (see Section
@@ -329,7 +328,7 @@ the supervisor client of the HIJSON Web Toolkit architecture (see Section
 
 
 \paragraph{Semantic extensions} Semantic extensions make the HIJSON format
-extendible and customizable, that is able to adequately respond to any need of
+extendible and customizable, i. e. able to adequately respond to any need of
 objects representation. To define a semantic extension means to allow the
 HIJSON document to model an object previously not covered, or even to modify
 the behavior of a comprised one. Semantic extensions are to be defined both as
@@ -419,8 +418,7 @@ solution has been selected in this case, so directions are actually computed
 client-side by applying the Dijkstra algorithm to the graph.
 Taking advantage of the hierarchical structure of the HIJSON document, and
 according to the divide et impera approach, the problem of paths generation is
-split in several sub-problems, which consist in the computation of the sub-
-graphs relative to each individual space, more generally a single room.
+split in several sub-problems, which consist in the computation of the sub-graphs relative to each individual space, more generally a single room.
 
 \begin{figure}[h]
  \centering
@@ -475,7 +473,7 @@ extensions of the Toolkit capabilities.
 
 The HIJSON Web Framework responds to the needs of an extendable, customizable,
 and scalable web framework which provides at the same time IoT monitoring,
-realtime multi-person tracking and cross-storey user navigation.
+real-time multi-person tracking and cross-storey user navigation.
 
 Expandability and customizability derive from both design choices and HIJSON
 inherent characteristics, i.e. the possibility of semantic extensions.
@@ -536,7 +534,7 @@ integrated into the HIJSON environment. It is the case, for example, of fire
 extinguishers, that are able to show the date of their last check, stored in a
 database.
 
-\paragraph{Realtime multi-person tracking} Realtime multi-person tracking
+\paragraph{Real-time multi-person tracking} Real-time multi-person tracking
 allows a Supervisor to monitor the current real position of people inside the
 building. This kind of task can be useful for several reasons, including
 security, logistics or to supervise composite operative workflows. Each device
@@ -565,15 +563,15 @@ system, avoiding the manipulation of global geographical coordinates, really
 inconvenient when dealing with indoor spaces and objects, greatly enhances the
 modeling and rendering of the document content. Currently, we produce the
 HIJSON document from a python script using two libraries for geometric
-computing (pyplasm and larcc [7, 14, 6]). The modeling process can be further
+computing (pyplasm and larcc \cite{Dicarlo:2014:TNL:2543138.2543294, paoluzziMS:2014}). The modeling process can be further
 improved by implementing a LAR-based graphical editor to assist the user
 during the description of the indoor space. The realization of such an editor
 is already in our plans. On the basis of this representation a virtual web
 environment can be rebuilt working as a unifying platform to run a bunch of
 different applications. The reference architecture of such a platform has been
 also implemented and described in this work. The architecture supports a whole
-range of applications: IoT monitoring, realtime multi-person tracking and user
-crossstorey navigation are already implemented and described. A very
+range of applications: IoT monitoring, real-time multi-person tracking and user
+cross-storey navigation are already implemented and described. A very
 convenient way to extend the representation capabilities of smart objects is
 also mentioned as semantic extensions. These extensions, which affects both
 document format and its web framework, might be easily collected in a public

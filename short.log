@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.2.17)  19 MAY 2015 02:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.2.17)  25 MAY 2015 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -549,15 +549,12 @@ Package epstopdf Info: Source file: <images/sogei2.eps>
 (epstopdf)                    date: 2015-05-19 10:12:22
 (epstopdf)                    size: 52076663 bytes
 (epstopdf)             Output file: <images/sogei2-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-19 10:12:53
+(epstopdf)                    size: 1417071 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/sogei2-eps-converte
 d-to.pdf images/sogei2.eps>
 (epstopdf)             \includegraphics on input line 302.
-runsystem(repstopdf --outfile=images/sogei2-eps-converted-to.pdf images/sogei2.
-eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <images/sogei2-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-05-19 10:12:53
-(epstopdf)                    size: 1417071 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 <images/sogei2-eps-converted-to.pdf, id=75, 1595.9625pt x 1033.8625pt>
 File: images/sogei2-eps-converted-to.pdf Graphic file (type pdf)
@@ -574,7 +571,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.370 T
+l.369 T
        hree Geometry types can be used here: Point, LineString and Polygon. The
 [2 <./images/sogei2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/pipeline.eps>
@@ -585,7 +582,7 @@ Package epstopdf Info: Source file: <images/pipeline.eps>
 (epstopdf)                    size: 117259 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/pipeline-eps-conver
 ted-to.pdf images/pipeline.eps>
-(epstopdf)             \includegraphics on input line 404.
+(epstopdf)             \includegraphics on input line 403.
 Package epstopdf Info: Output file is already uptodate.
 
 <images/pipeline-eps-converted-to.pdf, id=98, 1555.8125pt x 331.2375pt>
@@ -593,35 +590,35 @@ File: images/pipeline-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/pipeline-eps-converted-to.pdf>
 Package pdftex.def Info: images/pipeline-eps-converted-to.pdf used on input lin
-e 404.
+e 403.
 (pdftex.def)             Requested size: 240.0pt x 51.09361pt.
 
 <images/graph-new-1.pdf, id=100, 383.4325pt x 304.13625pt>
 File: images/graph-new-1.pdf Graphic file (type pdf)
 
 <use images/graph-new-1.pdf>
-Package pdftex.def Info: images/graph-new-1.pdf used on input line 428.
+Package pdftex.def Info: images/graph-new-1.pdf used on input line 426.
 (pdftex.def)             Requested size: 50.40308pt x 39.97533pt.
 
 <images/graph-new-2.pdf, id=101, 382.42876pt x 307.1475pt>
 File: images/graph-new-2.pdf Graphic file (type pdf)
 
 <use images/graph-new-2.pdf>
-Package pdftex.def Info: images/graph-new-2.pdf used on input line 432.
+Package pdftex.def Info: images/graph-new-2.pdf used on input line 430.
 (pdftex.def)             Requested size: 50.40308pt x 40.47891pt.
 
 <images/graph-new-3.pdf, id=102, 382.42876pt x 308.15125pt>
 File: images/graph-new-3.pdf Graphic file (type pdf)
 
 <use images/graph-new-3.pdf>
-Package pdftex.def Info: images/graph-new-3.pdf used on input line 436.
+Package pdftex.def Info: images/graph-new-3.pdf used on input line 434.
 (pdftex.def)             Requested size: 50.40308pt x 40.61119pt.
 
 <images/graph-new-4.pdf, id=103, 380.42125pt x 306.14375pt>
 File: images/graph-new-4.pdf Graphic file (type pdf)
 
 <use images/graph-new-4.pdf>
-Package pdftex.def Info: images/graph-new-4.pdf used on input line 440.
+Package pdftex.def Info: images/graph-new-4.pdf used on input line 438.
 (pdftex.def)             Requested size: 50.40308pt x 40.56151pt.
 Package epstopdf Info: Source file: <images/element-class-node.eps>
 (epstopdf)                    date: 2015-03-20 17:37:00
@@ -632,7 +629,7 @@ Package epstopdf Info: Source file: <images/element-class-node.eps>
 (epstopdf)                    size: 91550 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/element-class-node-
 eps-converted-to.pdf images/element-class-node.eps>
-(epstopdf)             \includegraphics on input line 464.
+(epstopdf)             \includegraphics on input line 462.
 Package epstopdf Info: Output file is already uptodate.
 
 <images/element-class-node-eps-converted-to.pdf, id=105, 1027.84pt x 200.75pt>
@@ -640,42 +637,37 @@ File: images/element-class-node-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/element-class-node-eps-converted-to.pdf>
 Package pdftex.def Info: images/element-class-node-eps-converted-to.pdf used on
- input line 464.
+ input line 462.
 (pdftex.def)             Requested size: 144.00146pt x 28.12318pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.503 
+l.501 
        [3 <./images/pipeline-eps-converted-to.pdf> <./images/graph-new-1.pdf> <
 ./images/graph-new-2.pdf> <./images/graph-new-3.pdf> <./images/graph-new-4.pdf>
  <./images/element-class-node-eps-converted-to.pdf>]
 <images/2D-3D.pdf, id=170, 1261.71375pt x 468.75125pt>
 File: images/2D-3D.pdf Graphic file (type pdf)
  <use images/2D-3D.pdf>
-Package pdftex.def Info: images/2D-3D.pdf used on input line 507.
+Package pdftex.def Info: images/2D-3D.pdf used on input line 505.
 (pdftex.def)             Requested size: 240.0pt x 89.16379pt.
 
-Overfull \hbox (3.67058pt too wide) in paragraph at lines 539--548
-[]\T1/aer/m/n/9 Realtime multi-person track-ing al-lows a Su-per-vi-sor to mon-
-
- []
-
 (./short.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 586.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 584.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.586 \end{document}
+l.584 \end{document}
                      [4 <./images/2D-3D.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 586.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 584.
  (./short.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 586.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 586.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 584.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 584.
 Package rerunfilecheck Info: File `short.out' has not changed.
 (rerunfilecheck)             Checksum: AF340485E981FA3B934448CCDF28B9CE;436.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 586.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 584.
  ) 
 Here is how much of TeX's memory you used:
  9836 strings out of 495028
@@ -696,10 +688,10 @@ pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on short.pdf (4 pages, 2695269 bytes).
+Output written on short.pdf (4 pages, 2695397 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
+ 236 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
  36 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
